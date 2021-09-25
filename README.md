@@ -1,1 +1,1 @@
-# The-Peoples-s-Browser
+# The-PeoplesBrowser
